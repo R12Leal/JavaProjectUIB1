@@ -6,6 +6,5 @@ Juego programado en JAVA utilizando Netbeans (IDE)
 
 ## Grupo de Estudiantes
 
-Kevin Nolasco - `soylol2012@gmail.com`
-
-Ramsés Leal - `leal.ramses@gmail.com`
+* Kevin Nolasco - `soylol2012@gmail.com`
+* Ramsés Leal - `leal.ramses@gmail.com`
